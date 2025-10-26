@@ -6,7 +6,7 @@
 "La rigueur suisse appliquée au trading crypto. Pas de secrets, que des résultats."
 
 ## 📊 Performance Transparente
-[Lien vers notre tracking temps réel - À AJOUTER]
+https://docs.google.com/spreadsheets/d/15gRuAv4e2XvdlWUk2YmDN_tWDoxFMwznP2F8V0QdPtI/edit?usp=sharing
 
 ## 🔍 Ce Que Vous Voyez Ici
 - ✅ Notre méthodologie générale
